@@ -22,7 +22,6 @@ This project simulates a basic e-commerce system using a MySQL database. It incl
 ## 🔍 SQL Concepts Used
 
 - **Joins** (`INNER JOIN`, `LEFT JOIN`)
-- **Subqueries** (correlated and nested)
 - **Aggregations** (`SUM`, `AVG`, `COUNT`)
 - **Groupings** (`GROUP BY`, `HAVING`)
 - **Constraints** (Primary keys, Foreign keys, `CHECK`)
@@ -38,14 +37,7 @@ This project simulates a basic e-commerce system using a MySQL database. It incl
 ## 🛠️ Tools Used
 
 - MySQL
-- SQL Workbench / XAMPP / phpMyAdmin
-
-## 📎 Author
-
-**Harish K**  
-[LinkedIn Profile](https://linkedin.com/in/harish-k241344226)  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
-
+- SQL Workbench 
 ---
 
 > This project is a part of my SQL learning and portfolio development to showcase hands-on skills in database design and analysis.
